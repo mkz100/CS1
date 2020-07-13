@@ -19,40 +19,40 @@ Hope at the end this course help you realize that you can do amazing things to c
 
 ## Text & Reference Books: 
 
-Think Java - How to Think Like a Computer Scientist
+**Think Java - How to Think Like a Computer Scientist**
 * Version 6.1.3
 * Allen B. Downey and Chris Mayfield
 * ISBN: 978-1491929568
 
-Think Data Structures - Algorithms and Information Retrieval in Java
+**Think Data Structures - Algorithms and Information Retrieval in Java**
 * Version 1.0.0
 * Allen B. Downey
 * ISBN: 978-1491972397
 
-The Essence of Object-Oriented Programming with Java and UML
+**The Essence of Object-Oriented Programming with Java and UML**
 * Bruce E. Wampler Ph.D
 * ISBN: 978-0201734102
 
-Design Patterns: Elements of Reusable Object-Oriented Software
+**Design Patterns: Elements of Reusable Object-Oriented Software**
 * The Bible of Object Oriented Design authored by the Gang of Four.
 * Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides, Grady Booch (Foreword)
 * ISBN: 978-0201633610
 
-Computer Networking: An All-in-One Beginner's Guide to Understanding Communications Systems, Network Security, Internet Connections, Cybersecurity and Hacking
+**Computer Networking: An All-in-One Beginner's Guide to Understanding Communications Systems, Network Security, Internet Connections, Cybersecurity and Hacking**
 * Quinn Kiser 
 * ISBN: 979-8657153880
 
-Artificial Intelligence Basics: A Non-Technical Introduction
+**Artificial Intelligence Basics: A Non-Technical Introduction**
 * August 2, 2019
 * Tom Taulli
 * ISBN-13: 978-1484250273
   
-Artificial Intelligence: 101 Things You Must Know Today About Our Future
+**Artificial Intelligence: 101 Things You Must Know Today About Our Future**
 * January 29, 2018
 * Lasse Rouhiainen
 * ISBN-13: 978-1982048808
 
-AI Crash Course: A fun and hands-on introduction to machine learning, reinforcement learning, deep learning, and artificial intelligence with Python
+**AI Crash Course: A fun and hands-on introduction to machine learning, reinforcement learning, deep learning, and artificial intelligence with Python**
 * November 29, 2019
 * Hadelin de Ponteves
 * ISBN-13: 978-1838645359
