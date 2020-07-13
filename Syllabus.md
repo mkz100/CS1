@@ -81,7 +81,7 @@ Cloud Computing, An Evolution or Revolution
 | >=90 | >=80 | >=70 | >=60 | <60
 
 ## Class Philosophy
-It is my fault if you could not learn in the class. So please do ask questions if you have any. Doing projects are oen of the best way to learn. So find your partners for the group projects, get your hands dirty and ready to code and have fun.
+It is my fault if you could not learn in the class. So please do ask questions if you have any. Doing projects are one of the best way to learn. So find your partners for the group projects, get your hands dirty and ready to code and have fun.
 
 ## Academic Honesty
 Reiterate: Group projects and term paper are expected to be done by the groups individually. Not shared across the groups. Each group member is expected to contribute. Especially the term paper is expected to be presented together with everyone participating. You won't receive the corresponding grade if you do not participate.
