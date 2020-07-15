@@ -8,7 +8,7 @@
 ## Course Goals:  
 
 In this course, we will explore together the beauty and joy of the computing. 
-You will learn the past, the present and the future of the computing. You will be exposed the powerful concepts and ideas revolutionizing the world. 
+You will learn the past, the present and the future of the computing. You will be exposed to the powerful concepts and ideas revolutionizing the world. 
 Hope at the end this course help you realize that you can do amazing things to change people's lives with the computing tools available at your finger tips.
 
 * Understand the core concepts of computing
@@ -23,11 +23,6 @@ Hope at the end this course help you realize that you can do amazing things to c
 * Version 6.1.3
 * Allen B. Downey and Chris Mayfield
 * ISBN: 978-1491929568
-
-**Think Data Structures - Algorithms and Information Retrieval in Java**
-* Version 1.0.0
-* Allen B. Downey
-* ISBN: 978-1491972397
 
 ## Online Resources
 
@@ -73,6 +68,11 @@ It is my fault if you could not learn in the class. So please do ask questions i
 Reiterate: Group projects and term paper are expected to be done by the groups individually. Not shared across the groups. Each group member is expected to contribute. Especially the term paper is expected to be presented together with everyone participating. You won't receive the corresponding grade if you do not participate.
 
 ## Reference Books: 
+
+**Think Data Structures - Algorithms and Information Retrieval in Java**
+* Version 1.0.0
+* Allen B. Downey
+* ISBN: 978-1491972397
 
 **The Essence of Object-Oriented Programming with Java and UML**
 * Bruce E. Wampler Ph.D
