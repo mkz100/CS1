@@ -17,7 +17,7 @@ Hope at the end this course help you realize that you can do amazing things to c
 * Understand Cloud Computing
 * Understand AI & Machine Learning
 
-## Text & Reference Books: 
+## Text Books: 
 
 **Think Java - How to Think Like a Computer Scientist**
 * Version 6.1.3
@@ -28,34 +28,6 @@ Hope at the end this course help you realize that you can do amazing things to c
 * Version 1.0.0
 * Allen B. Downey
 * ISBN: 978-1491972397
-
-**The Essence of Object-Oriented Programming with Java and UML**
-* Bruce E. Wampler Ph.D
-* ISBN: 978-0201734102
-
-**Design Patterns: Elements of Reusable Object-Oriented Software**
-* The Bible of Object Oriented Design authored by the Gang of Four.
-* Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides, Grady Booch (Foreword)
-* ISBN: 978-0201633610
-
-**Computer Networking: An All-in-One Beginner's Guide to Understanding Communications Systems, Network Security, Internet Connections, Cybersecurity and Hacking**
-* Quinn Kiser 
-* ISBN: 979-8657153880
-
-**Artificial Intelligence Basics: A Non-Technical Introduction**
-* August 2, 2019
-* Tom Taulli
-* ISBN-13: 978-1484250273
-  
-**Artificial Intelligence: 101 Things You Must Know Today About Our Future**
-* January 29, 2018
-* Lasse Rouhiainen
-* ISBN-13: 978-1982048808
-
-**AI Crash Course: A fun and hands-on introduction to machine learning, reinforcement learning, deep learning, and artificial intelligence with Python**
-* November 29, 2019
-* Hadelin de Ponteves
-* ISBN-13: 978-1838645359
 
 ## Online Resources
 
@@ -95,9 +67,38 @@ Cloud Computing, An Evolution or Revolution
 | >=90 | >=80 | >=70 | >=60 | <60
 
 ## Class Philosophy
-It is my fault if you could not learn in the class. So please do ask questions if you have any. Doing projects are one of the best way to learn. So find your partners for the group projects, get your hands dirty and ready to code and have fun.
+It is my fault if you could not learn in the class. So please do ask questions if you have any. Doing projects is one of the best way to learn. So find your partners for the group projects, get your hands dirty and ready to code and have fun.
 
 ## Academic Honesty
 Reiterate: Group projects and term paper are expected to be done by the groups individually. Not shared across the groups. Each group member is expected to contribute. Especially the term paper is expected to be presented together with everyone participating. You won't receive the corresponding grade if you do not participate.
 
+## Reference Books: 
+
+**The Essence of Object-Oriented Programming with Java and UML**
+* Bruce E. Wampler Ph.D
+* ISBN: 978-0201734102
+
+**Design Patterns: Elements of Reusable Object-Oriented Software**
+* The Bible of Object Oriented Design authored by the Gang of Four.
+* Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides, Grady Booch (Foreword)
+* ISBN: 978-0201633610
+
+**Computer Networking: An All-in-One Beginner's Guide to Understanding Communications Systems, Network Security, Internet Connections, Cybersecurity and Hacking**
+* Quinn Kiser 
+* ISBN: 979-8657153880
+
+**Artificial Intelligence Basics: A Non-Technical Introduction**
+* August 2, 2019
+* Tom Taulli
+* ISBN-13: 978-1484250273
+  
+**Artificial Intelligence: 101 Things You Must Know Today About Our Future**
+* January 29, 2018
+* Lasse Rouhiainen
+* ISBN-13: 978-1982048808
+
+**AI Crash Course: A fun and hands-on introduction to machine learning, reinforcement learning, deep learning, and artificial intelligence with Python**
+* November 29, 2019
+* Hadelin de Ponteves
+* ISBN-13: 978-1838645359
  
