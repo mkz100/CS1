@@ -2,7 +2,7 @@
 ## Course Syllabus, Fall 2020 
  
 * Date : TBD
-* Instructor : Zhang, Kai { Solution Architect, IBM }
+* Instructor : Zhang, Kai { Solution Architect }
 * Class site: https://github.com/mkz100/CS1
 
 ## Course Goals:  
@@ -23,6 +23,14 @@ Hope at the end this course help you realize that you can do amazing things to c
 * Version 6.1.3
 * Allen B. Downey and Chris Mayfield
 * ISBN: 978-1491929568
+* Download the book free at http://greenteapress.com/thinkjava7/thinkjava2.pdf
+  
+**Think Data Structures - Algorithms and Information Retrieval in Java**
+* Version 1.0.0
+* Allen B. Downey
+* ISBN: 978-1491972397
+* Download the book free at http://greenteapress.com/thinkdast/thinkdast.pdf
+  
 
 ## Online Resources
 
@@ -68,11 +76,6 @@ It is my fault if you could not learn in the class. So please do ask questions i
 Reiterate: Group projects and term paper are expected to be done by the groups individually. Not shared across the groups. Each group member is expected to contribute. Especially the term paper is expected to be presented together with everyone participating. You won't receive the corresponding grade if you do not participate.
 
 ## Reference Books: 
-
-**Think Data Structures - Algorithms and Information Retrieval in Java**
-* Version 1.0.0
-* Allen B. Downey
-* ISBN: 978-1491972397
 
 **The Essence of Object-Oriented Programming with Java and UML**
 * Bruce E. Wampler Ph.D
