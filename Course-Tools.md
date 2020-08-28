@@ -3,7 +3,7 @@
 1. Visit the CS1 Course Home @ https://github.com/mkz100/CS1
    * This is the instructor site containing all course materials.
 2. Github: The best source code management system 
-   * github.com : create an account
+   * Go to https://github.com : create an account
    * Go to the CS1-Student wiki (https://github.com/mkz100/CS1-Students/wiki/Home/_edit) to update the table with your name and Github username. 
 3. VS-Code: Visual Studio Code - the best IDE (Integrated Development Environment)
    * Install it on your computer from https://code.visualstudio.com/
