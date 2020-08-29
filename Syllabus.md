@@ -37,6 +37,12 @@ Hope at the end this course help you realize that you can do amazing things to c
 W3School Java Interactive Learning Site
 * https://www.w3schools.com/java/
 
+Computing at Khan Academy
+https://www.khanacademy.org/computing
+
+Computers and the Internet
+https://www.khanacademy.org/computing/code-org/computers-and-the-internet
+
 Cloud Computing, An Evolution or Revolution
 * https://github.com/mkz100/CS1/blob/master/Docs/CloudComputing.pdf
 
@@ -45,14 +51,15 @@ Cloud Computing, An Evolution or Revolution
   
 | Day | Agenda | Assignments | Due  | Comments  |
 |---|---|---|---|---|
-| Day 1 | Understand the core concepts of computing |   |   |   |
-| Day 2 | Programing in Java 1 | Project 1|   |   |
-| Day 3 | Programing in Java 2 |   |   |   |
-| Day 4 | Object Oriented Design | Project 2  |  Project 1| |   |
-| Day 5 | Data Structure 1  |  |   |   |
-| Day 6 | Data Structure 2  | Project 3 |  Project 2 |   |
-| Day 7 | Algorithms |  Project 4 |   |   |
-| Day 8 | computer networks and security | Term Paper | Project 3 |   |
+| Day 0 | Class Intro and Requirements |    |   |
+| Day 1 | Understand the core concepts of computing |   |   | https://www.khanacademy.org/computing/code-org/computers-and-the-internet  |
+| Day 2 | computer networks and security |  |  | https://www.khanacademy.org/computing/code-org/computers-and-the-internet#internet-works  |
+| Day 3 | Programing in Java 1 | Project 1|   |   |
+| Day 4 | Programing in Java 2 |   |   |   |
+| Day 5 | Object Oriented Design | Project 2  |  Project 1| |   |
+| Day 6 | Data Structure 1  |  |   |   |
+| Day 7 | Data Structure 2  | Project 3 |  Project 2 |   |
+| Day 8 | Algorithms |  Project 4 |  Term Paper | Project 3  |
 | Day 9 | Cloud Computing | | Project 4   |   |
 | Day 10 | AI & Machine Learning |  | Term Paper Presentation |   |
 
