@@ -54,9 +54,9 @@ Cloud Computing, An Evolution or Revolution
 | Day 0 | Class Intro and Requirements |   |   | [Course-Tools.md](Course-Tools.md) |
 | Day 1 | Understand the core concepts of computing |   |   | https://www.khanacademy.org/computing/code-org/computers-and-the-internet  |
 | Day 2 | computer networks and security |  |  | https://www.khanacademy.org/computing/code-org/computers-and-the-internet#internet-works  |
-| Day 3 | Programing in Java 1 | Project 1|   | https://www.w3schools.com/java, https://www.liaoxuefeng.com/wiki/1252599548343744, https://www.coursera.org/learn/java-chengxu-sheji  |
+| Day 3 | Programing in Java 1 | Project 1|   | https://www.w3schools.com/java, https://www.liaoxuefeng.com/wiki/1252599548343744 |
 | Day 4 | Programing in Java 2 |   |   | https://beginnersbook.com/2013/04/oops-concepts/  |
-| Day 5 | Object Oriented Design | Project 2  |  Project 1| |   |
+| Day 5 | Object Oriented Design | Project 2  |  Project 1| | https://www.coursera.org/learn/java-chengxu-sheji  |
 | Day 6 | Data Structure 1  |  |   |   |
 | Day 7 | Data Structure 2  | Project 3 |  Project 2 |   |
 | Day 8 | Algorithms |  Project 4 |  Term Paper | Project 3  |
