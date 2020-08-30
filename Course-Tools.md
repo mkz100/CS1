@@ -7,6 +7,9 @@
    * Go to the CS1-Student wiki (https://github.com/mkz100/CS1-Students/wiki/Home/_edit) to update the table with your name and Github username. 
 3. VS-Code: Visual Studio Code - the best IDE (Integrated Development Environment)
    * Install it on your computer from https://code.visualstudio.com/
+      * https://devblogs.microsoft.com/java-ch/java-on-visual-studio-code%E7%9A%84%E6%9B%B4%E6%96%B0-2020%E5%B9%B47%E6%9C%88/
+      * https://www.infoq.cn/article/wSaK-Nm2ZhK65ydrUdgJ
+      * https://zhuanlan.zhihu.com/p/35176928
    * Set up GitHub for accessing CS1-Students in VS Code
       * CS1-Students Repository: https://github.com/mkz100/CS1-Students
       * Setup Instructions: https://code.visualstudio.com/docs/editor/github
