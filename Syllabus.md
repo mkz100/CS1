@@ -56,10 +56,10 @@ Cloud Computing, An Evolution or Revolution
 |---|---|---|---|---|
 | Day 0 | Class Intro and Requirements |   |   | [Course-Tools.md](Course-Tools.md) |
 | Day 1 | Understand the Core Concepts of Computing |   |   | https://www.khanacademy.org/computing/code-org/computers-and-the-internet  |
-| Day 2 | Computer Networks and Security | [Project 1](https://github.com/mkz100/CS1-Students/blob/master/Projects/Project-1/README.md) | in a week | https://www.khanacademy.org/computing/code-org/computers-and-the-internet#internet-works  |
+| Day 2 | Computer Networks and Security | [Project 1](https://github.com/mkz100/CS1-Students/blob/master/projects/project1/README.md) | in a week | https://www.khanacademy.org/computing/code-org/computers-and-the-internet#internet-works  |
 | Day 3 | Programing in Java 1 |  |   | https://www.w3schools.com/java, https://www.liaoxuefeng.com/wiki/1252599548343744 |
 | Day 4 | Programing in Java 2 |  |   | https://beginnersbook.com/2013/04/oops-concepts/  |
-| Day 5 | Object Oriented Design | [Project 2](https://github.com/mkz100/CS1-Students/blob/master/Projects/Project-2/README.md) |  | https://www.coursera.org/learn/java-chengxu-sheji/lecture/cHkrB/1-2-1-mian-xiang-dui-xiang-cheng-xu-she-ji |
+| Day 5 | Object Oriented Design | [Project 2](https://github.com/mkz100/CS1-Students/blob/master/projects/project2/README.md) |  | https://www.coursera.org/learn/java-chengxu-sheji/lecture/cHkrB/1-2-1-mian-xiang-dui-xiang-cheng-xu-she-ji |
 | Day 6 | Data Structure 1  |  |   |   |
 | Day 7 | Data Structure 2  | Project 3 |  |   |
 | Day 8 | Algorithms |  Project 4 |  Term Paper | Project 3  |
