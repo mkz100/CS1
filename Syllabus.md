@@ -38,10 +38,13 @@ W3School Java Interactive Learning Site
 * https://www.w3schools.com/java/
 
 Computing at Khan Academy
-https://www.khanacademy.org/computing
+* https://www.khanacademy.org/computing
 
 Computers and the Internet
-https://www.khanacademy.org/computing/code-org/computers-and-the-internet
+* https://www.khanacademy.org/computing/code-org/computers-and-the-internet
+
+Programing in Java
+* https://www.coursera.org/learn/java-chengxu-sheji
 
 Cloud Computing, An Evolution or Revolution
 * https://github.com/mkz100/CS1/blob/master/Docs/CloudComputing.pdf
@@ -52,13 +55,13 @@ Cloud Computing, An Evolution or Revolution
 | Day | Agenda | Assignments | Due  | Comments  |
 |---|---|---|---|---|
 | Day 0 | Class Intro and Requirements |   |   | [Course-Tools.md](Course-Tools.md) |
-| Day 1 | Understand the core concepts of computing |   |   | https://www.khanacademy.org/computing/code-org/computers-and-the-internet  |
-| Day 2 | computer networks and security |  |  | https://www.khanacademy.org/computing/code-org/computers-and-the-internet#internet-works  |
-| Day 3 | Programing in Java 1 | Project 1|   | https://www.w3schools.com/java, https://www.liaoxuefeng.com/wiki/1252599548343744 |
-| Day 4 | Programing in Java 2 |   |   | https://beginnersbook.com/2013/04/oops-concepts/  |
-| Day 5 | Object Oriented Design | Project 2  |  Project 1| | https://www.coursera.org/learn/java-chengxu-sheji  |
+| Day 1 | Understand the Core Concepts of Computing |   |   | https://www.khanacademy.org/computing/code-org/computers-and-the-internet  |
+| Day 2 | Computer Networks and Security | [Project 1](https://github.com/mkz100/CS1-Students/blob/master/Projects/Project-1/Project-1.md) | in a week | https://www.khanacademy.org/computing/code-org/computers-and-the-internet#internet-works  |
+| Day 3 | Programing in Java 1 |  |   | https://www.w3schools.com/java, https://www.liaoxuefeng.com/wiki/1252599548343744 |
+| Day 4 | Programing in Java 2 |  |   | https://beginnersbook.com/2013/04/oops-concepts/  |
+| Day 5 | Object Oriented Design | [Project 2](https://github.com/mkz100/CS1-Students/blob/master/Projects/Project-2/Project-2.md) |  | https://www.coursera.org/learn/java-chengxu-sheji/lecture/cHkrB/1-2-1-mian-xiang-dui-xiang-cheng-xu-she-ji |
 | Day 6 | Data Structure 1  |  |   |   |
-| Day 7 | Data Structure 2  | Project 3 |  Project 2 |   |
+| Day 7 | Data Structure 2  | Project 3 |  |   |
 | Day 8 | Algorithms |  Project 4 |  Term Paper | Project 3  |
 | Day 9 | Cloud Computing | | Project 4   |   |
 | Day 10 | AI & Machine Learning |  | Term Paper Presentation |   |
