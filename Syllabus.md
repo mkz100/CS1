@@ -61,9 +61,9 @@ Cloud Computing, An Evolution or Revolution
 | Day 4 | Programing in Java 2 |  |   | https://beginnersbook.com/2013/04/oops-concepts/  |
 | Day 5 | Object Oriented Design | [Project 2](https://github.com/mkz100/CS1-Students/blob/master/projects/project2/README.md) |  | https://www.coursera.org/learn/java-chengxu-sheji/lecture/cHkrB/1-2-1-mian-xiang-dui-xiang-cheng-xu-she-ji |
 | Day 6 | Data Structure 1  |  |   |   |
-| Day 7 | Data Structure 2  | Project 3 |  |   |
-| Day 8 | Algorithms |  Project 4 |  Term Paper | Project 3  |
-| Day 9 | Cloud Computing | | Project 4   |   |
+| Day 7 | Data Structure 2  | [Project 3](https://github.com/mkz100/CS1-Students/blob/master/projects/project3/README.md) |  |   |
+| Day 8 | Algorithms | [Project 4](https://github.com/mkz100/CS1-Students/blob/master/projects/project4/README.md) | |  |
+| Day 9 | Cloud Computing | [Term Paper](https://github.com/mkz100/CS1-Students/blob/master/projects/termpaper/README.md) |  |   |
 | Day 10 | AI & Machine Learning |  | Term Paper Presentation |   |
 
 * Recorded video #1 ~ #10 will be delivered on BaiDu Cloud class web site. 
