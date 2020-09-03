@@ -56,12 +56,12 @@ Cloud Computing, An Evolution or Revolution
 |---|---|---|---|---|
 | Day 0 | Class Intro and Requirements |   |   | [Course-Tools.md](Course-Tools.md) |
 | Day 1 | Understand the Core Concepts of Computing |   |   | https://www.khanacademy.org/computing/code-org/computers-and-the-internet  |
-| Day 2 | Computer Networks and Security | [Project 1](https://github.com/mkz100/CS1-Students/blob/master/projects/project1/README.md) | in a week | https://www.khanacademy.org/computing/code-org/computers-and-the-internet#internet-works  |
-| Day 3 | Programing in Java 1 |  |   | https://www.w3schools.com/java, https://www.liaoxuefeng.com/wiki/1252599548343744 |
+| Day 2 | Computer Networks and Security | [Project 1](https://github.com/mkz100/CS1-Students/blob/master/projects/project1/README.md) | | https://www.khanacademy.org/computing/code-org/computers-and-the-internet#internet-works  |
+| Day 3 | Programing in Java 1 |  |   | https://www.w3schools.com/java, https://github.com/mkz100/CS1/blob/master/Course-Materials/References/Java-Programming-1-BJU.pdf, https://www.liaoxuefeng.com/wiki/1252599548343744 |
 | Day 4 | Programing in Java 2 |  |   | https://beginnersbook.com/2013/04/oops-concepts/  |
 | Day 5 | Object Oriented Programming | [Project 2](https://github.com/mkz100/CS1-Students/blob/master/projects/project2/README.md) |  | https://www.coursera.org/learn/java-chengxu-sheji/lecture/cHkrB/1-2-1-mian-xiang-dui-xiang-cheng-xu-she-ji |
-| Day 6 | Data Structure & Algorithms 1 |  |   | https://www.bilibili.com/video/BV1F54y1Q7Tp?p=1 |
-| Day 7 | Data Structure & Algorithms 2 | [Project 3](https://github.com/mkz100/CS1-Students/blob/master/projects/project3/README.md) |  |   |
+| Day 6 | Data Structure & Algorithms 1 |  |   | https://www.bilibili.com/video/BV1F54y1Q7Tp?p=1, https://www.toptal.com/developers/sorting-algorithms |
+| Day 7 | Data Structure & Algorithms 2 | [Project 3](https://github.com/mkz100/CS1-Students/blob/master/projects/project3/README.md) |  | https://www.bigocheatsheet.com, https://www.cs.usfca.edu/~galles/visualization/Algorithms.html |
 | Day 8 | Data Structure & Algorithms 3 | [Project 4](https://github.com/mkz100/CS1-Students/blob/master/projects/project4/README.md) | |  |
 | Day 9 | Cloud Computing | [Term Paper](https://github.com/mkz100/CS1-Students/blob/master/projects/termpaper/README.md) |  |   |
 | Day 10 | AI & Machine Learning |  | Term Paper Presentation |   |
