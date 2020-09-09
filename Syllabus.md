@@ -74,7 +74,7 @@ Cloud Computing, An Evolution or Revolution
 * Each Project: 20% 
 * Mid-Term project: 20%
 * Final-Term Paper: 20%
-* Group projects are expected to be done by the groups individually. Not shared across the groups. Each group member is expected to contribute. Especially the term paper is expected to be presented together with everyone participating. You won't receive the corresponding grade if you do not participate.
+* Group projects are expected to be done by the groups individually. Not shared across the groups. Each group member is expected to contribute. You won't receive the corresponding grade if you do not participate.
 
 | A | B | C | D  | F  |
 |---|---|---|---|---|
