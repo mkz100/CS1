@@ -47,7 +47,7 @@ Programing in Java
 * https://www.coursera.org/learn/java-chengxu-sheji
 
 Cloud Computing, An Evolution or Revolution
-* https://github.com/mkz100/CS1/blob/master/Docs/CloudComputing.pdf
+* https://github.com/mkz100/CS1/blob/master/Course-Materials/References/CloudComputing.pdf
 
 
 ## Tentative Schedule
@@ -61,9 +61,9 @@ Cloud Computing, An Evolution or Revolution
 | Day 4 | Programing in Java 2 |  |   | https://beginnersbook.com/2013/04/oops-concepts/  |
 | Day 5 | Object Oriented Programming | [Project 2](https://github.com/mkz100/CS1-Students/blob/master/projects/project2/README.md) |  | https://www.coursera.org/learn/java-chengxu-sheji/lecture/cHkrB/1-2-1-mian-xiang-dui-xiang-cheng-xu-she-ji |
 | Day 6 | Data Structure & Algorithms 1 |  |   | https://www.bilibili.com/video/BV1F54y1Q7Tp?p=1, https://www.toptal.com/developers/sorting-algorithms |
-| Day 7 | Data Structure & Algorithms 2 | [Project 3](https://github.com/mkz100/CS1-Students/blob/master/projects/project3/README.md) |  | https://www.bigocheatsheet.com, https://www.cs.usfca.edu/~galles/visualization/Algorithms.html |
+| Day 7 | Data Structure & Algorithms 2 | [Mid-Term Project 3](https://github.com/mkz100/CS1-Students/blob/master/projects/project3/README.md) |  | https://www.bigocheatsheet.com, https://www.cs.usfca.edu/~galles/visualization/Algorithms.html |
 | Day 8 | Data Structure & Algorithms 3 | [Project 4](https://github.com/mkz100/CS1-Students/blob/master/projects/project4/README.md) | |  |
-| Day 9 | Cloud Computing | [Term Paper](https://github.com/mkz100/CS1-Students/blob/master/projects/termpaper/README.md) |  |   |
+| Day 9 | Cloud Computing | [Final-Term Paper](https://github.com/mkz100/CS1-Students/blob/master/projects/termpaper/README.md) |  | https://github.com/mkz100/CS1/blob/master/Course-Materials/References/CloudComputing.pdf |
 | Day 10 | AI & Machine Learning |  | Term Paper Presentation |   |
 
 * Recorded video #1 ~ #10 will be delivered on BaiDu Cloud class web site. 
@@ -71,8 +71,9 @@ Cloud Computing, An Evolution or Revolution
 * Everyone is expected to take part in Term Paper Presentation.
 
 ## Grading
-* Projects: 80% ( 20% for each project )  
-* Term Paper Presentation: 20%
+* Each Project: 20% 
+* Mid-Term project: 20%
+* Final-Term Paper: 20%
 * Group projects are expected to be done by the groups individually. Not shared across the groups. Each group member is expected to contribute. Especially the term paper is expected to be presented together with everyone participating. You won't receive the corresponding grade if you do not participate.
 
 | A | B | C | D  | F  |
